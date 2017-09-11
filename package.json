@@ -1,9 +1,11 @@
 {
-  "name": "tinypromise",
-  "version": "0.0.3",
+  "name": "tinyp-romise",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
-  "author": "tinyRush",
+  "author": {
+    "name": "tinyRush",
+    "email": "tinyrush.team@gmail.com"
+  },
   "license": "ISC"
 }
