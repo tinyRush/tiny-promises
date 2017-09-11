@@ -3,10 +3,19 @@ Extend nodejs Promise with a lot of useful methods.
 # Installation
 `$ npm install --save tiny-promises`
 # Usage
-Just require it in your main (index.js for example).
+1. Require it in your main file (entry point).
 ```javascript
+// index.js
+
 require('tiny-promises');
 ```
+2. Create your *.d.ts in root folder and add reference to `tiny-promises` type.
+```javascript
+// app.d.ts
+
+/// <reference types="tiny-promises" />
+```
+3. Done.
 # Methods
 - [queue](#queue)
 - [pipe](#pipe)
