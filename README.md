@@ -12,8 +12,14 @@ require('tiny-promise');
 - [pipe](#pipe)
 - [pipeArray](#pipearray)
 ## queue
-`queue<T, K>(queue: T[], handler: (item: T) => Promise<K>): Promise<K[]>` 
+```javascript
+Promise.queue<T, K>(queue: T[], handler: (item: T) => Promise<K>): Promise<K[]>
+``` 
 ## pipe
-`pipe<T>(...funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>`
+```javascript
+Promise.pipe<T>(...funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>
+```
 ## pipeArray
-`pipeArray<T>(funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>`
+```javascript 
+Promise.pipeArray<T>(funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>
+```
