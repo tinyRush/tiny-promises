@@ -1,0 +1,9 @@
+{
+  "name": "tinypromise",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "tinyRush",
+  "license": "ISC"
+}
