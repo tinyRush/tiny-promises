@@ -1,4 +1,4 @@
-/// <reference path="../types/TinyPromises.d.ts" />
+/// <reference path="../index.d.ts" />
 
 Promise.queue = <TypeQueue, TypePromise>(
   queue: TypeQueue[],
