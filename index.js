@@ -1,1 +1,1 @@
-module.exports = require('./lib/TinyPromise');
+module.exports = require('./lib/TinyPromises');
