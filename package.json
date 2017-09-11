@@ -1,5 +1,5 @@
 {
-  "name": "tiny-promise",
+  "name": "tiny-promises",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,10 @@
     "name": "tinyRush",
     "email": "tinyrush.team@gmail.com"
   },
-  "homepage": "https://github.com/tinyRush/tiny-promise#readme",
+  "homepage": "https://github.com/tinyRush/tiny-promises#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinyRush/tiny-promise.git"
+    "url": "git+https://github.com/tinyRush/tiny-promises.git"
   },
   "license": "ISC"
 }

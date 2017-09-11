@@ -1,4 +1,4 @@
-# tiny-promise
+# tiny-promises
 Extend nodejs Promise with a lot of useful methods.
 # Installation
 `$ npm install --save tiny-promise`
