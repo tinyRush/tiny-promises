@@ -1,11 +1,11 @@
 # tiny-promises
 Extend nodejs Promise with a lot of useful methods.
 # Installation
-`$ npm install --save tiny-promise`
+`$ npm install --save tiny-promises`
 # Usage
 Just require it in your main (index.js for example).
 ```javascript
-require('tiny-promise');
+require('tiny-promises');
 ```
 # Methods
 - [queue](#queue)
