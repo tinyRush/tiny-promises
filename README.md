@@ -10,7 +10,7 @@ require('tiny-promise');
 # Methods
 - [queue](#queue)
 - [pipe](#pipe)
-- [pipeArray](#pipeArray)
+- [pipeArray](#pipearray)
 ## queue
 `queue<T, K>(queue: T[], handler: (item: T) => Promise<K>): Promise<K[]>` 
 ## pipe
