@@ -1,4 +1,4 @@
-import * as tinyPromise from './lib/TinyPromise';
+import * as tinyPromise from './lib/TinyPromises';
 
 declare global {
   interface PromiseConstructor {
