@@ -7,5 +7,10 @@
     "name": "tinyRush",
     "email": "tinyrush.team@gmail.com"
   },
+  "homepage": "https://github.com/tinyRush/tiny-promise#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinyRush/tiny-promise.git"
+  },
   "license": "ISC"
 }
