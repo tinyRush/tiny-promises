@@ -32,3 +32,5 @@ Promise.pipe<T>(...funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>
 ```javascript 
 Promise.pipeArray<T>(funcs: ((arg) => Promise<T>)[]): (arg) => Promise<T>
 ```
+# License
+[MIT](https://github.com/tinyRush/tiny-promises/blob/master/LICENSE)

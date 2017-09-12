@@ -13,5 +13,5 @@
     "type": "git",
     "url": "git+https://github.com/tinyRush/tiny-promises.git"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
